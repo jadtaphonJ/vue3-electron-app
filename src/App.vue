@@ -1,6 +1,13 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  TEST 1234567888
+  <div>
+    <img alt="Vue logo" src="./assets/logo.png">
+
+    <div>
+      TEST
+    </div>
+    <div>version 1.0.0</div>
+  </div>
+  
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
 </template>
 
