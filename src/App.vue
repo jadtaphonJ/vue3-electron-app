@@ -5,7 +5,7 @@
     <div>
       TEST
     </div>
-    <div>version 1.0.0</div>
+    <div>version 1.0.1</div>
   </div>
   
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
