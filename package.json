@@ -49,15 +49,5 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ],
-  "build": {
-    "appId": "com.example.vue3-electron-app",
-    "publish": [
-      {
-        "provider": "github",
-        "owner": "่jadtaphonJ",
-        "repo": "vue3-electron-app"
-      }
-    ]
-  }
+  ]
 }
